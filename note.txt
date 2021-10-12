@@ -1,0 +1,24 @@
+JDK11 DOWNLOAD
+https://adoptium.net/?variant=openjdk11
+
+MAVEN DOWNLOAD
+https://downloads.apache.org/maven/maven-3/3.6.3/binaries/
+
+
+環境變數
+JAVA_HOME
+C:\Program Files\Eclipse Foundation\jdk-11.0.12.7-hotspot
+
+
+MAVEN_HOME
+C:\xxx\apache-maven-3.6.3
+
+
+%JAVA_HOME%\bin
+
+%MAVEN_HOME%\bin
+
+docker
+https://docs.microsoft.com/zh-tw/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+
+wsl --set-default-version 2
